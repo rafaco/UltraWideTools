@@ -1,5 +1,8 @@
 # UltraWideTools
 <p align="center">
+  <img src="https://github.com/rafaco/UltraWideTools/raw/main/images/Composition.png">
+</p>
+<p align="center">
   <a href="https://www.microsoft.com/es-es/windows" alt="Operative System">
       <img src="https://img.shields.io/badge/Operative_System-Windows-blue.svg?style=flat-square"/></a>
   <a href="https://www.autohotkey.com" alt="Powered by">
